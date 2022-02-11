@@ -1,0 +1,15 @@
+table {
+    border-spacing: 0px;
+    height: 240px;
+    width: 360px;
+    }
+
+    td.y {
+    background-color: yellow;
+    width: 360px;
+    }
+    
+    td.bl {
+    background-color: blue;
+    width: 360px;
+    }
